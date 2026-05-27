@@ -1,0 +1,7 @@
+category,quantity,unit,activity_date,scope
+diesel,500,L,2026-05-01,Scope 1
+petrol,120,GAL,2026-05-02,Scope 1
+electricity,12000,kWh,2026-05-03,Scope 2
+flight,1800,km,2026-05-04,Scope 3
+hotel,4,nights,2026-05-05,Scope 3
+unknownfuel,999999,,2026-05-06,Scope 1
